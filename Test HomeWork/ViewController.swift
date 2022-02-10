@@ -1,9 +1,3 @@
-//
-//  ViewController.swift
-//  Test HomeWork
-//
-//  Created by Zdrenko Zigich on 10.02.2022.
-//
 
 import UIKit
 
